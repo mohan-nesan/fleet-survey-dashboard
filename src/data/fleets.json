@@ -1,0 +1,62 @@
+[
+  {
+    "id": "FL001",
+    "name": "Namakkal Transport Co.",
+    "vehicles": 12,
+    "location": "Namakkal, Tamil Nadu",
+    "product": "Michelin X Works HD",
+    "lastInspection": "2026-07-10",
+    "avgTreadDepth": 7.8,
+    "status": "Active"
+  },
+  {
+    "id": "FL002",
+    "name": "Chennai Freight Solutions",
+    "vehicles": 24,
+    "location": "Chennai, Tamil Nadu",
+    "product": "Michelin X Line Energy D",
+    "lastInspection": "2026-07-08",
+    "avgTreadDepth": 5.2,
+    "status": "Active"
+  },
+  {
+    "id": "FL003",
+    "name": "Trichy Logistics Pvt Ltd",
+    "vehicles": 8,
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "product": "Michelin X Multi D",
+    "lastInspection": "2026-06-30",
+    "avgTreadDepth": 3.1,
+    "status": "Alert"
+  },
+  {
+    "id": "FL004",
+    "name": "Coimbatore Road Carriers",
+    "vehicles": 18,
+    "location": "Coimbatore, Tamil Nadu",
+    "product": "Michelin X Works HD",
+    "lastInspection": "2026-07-12",
+    "avgTreadDepth": 9.4,
+    "status": "Active"
+  },
+  {
+    "id": "FL005",
+    "name": "Salem Heavy Haulage",
+    "vehicles": 6,
+    "location": "Salem, Tamil Nadu",
+    "product": "Michelin X Line Energy Z",
+    "lastInspection": "2026-07-01",
+    "avgTreadDepth": 2.8,
+    "status": "Critical"
+  },
+  {
+    "id": "FL006",
+    "name": "Erode Express Cargo",
+    "vehicles": 15,
+    "location": "Erode, Tamil Nadu",
+    "product": "Michelin X Multi Energy D",
+    "lastInspection": "2026-07-11",
+    "avgTreadDepth": 6.9,
+    "status": "Active"
+  }
+]

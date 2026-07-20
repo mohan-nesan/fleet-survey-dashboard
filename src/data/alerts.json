@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ALT001",
+    "fleetId": "FL005",
+    "fleetName": "Salem Heavy Haulage",
+    "vehicleId": "TN30BK8823",
+    "severity": "Critical",
+    "type": "Tread Depth",
+    "description": "Tread depth below minimum threshold at 2.8mm across all axles. Immediate replacement required to comply with safety regulations.",
+    "date": "2026-07-01",
+    "status": "Open"
+  },
+  {
+    "id": "ALT002",
+    "fleetId": "FL003",
+    "fleetName": "Trichy Logistics Pvt Ltd",
+    "vehicleId": "TN45CK1923",
+    "severity": "High",
+    "type": "Wear Pattern",
+    "description": "Irregular wear pattern detected on rear axle. Possible misalignment. Recommend vehicle alignment check before next 5000 km.",
+    "date": "2026-06-30",
+    "status": "In Progress"
+  },
+  {
+    "id": "ALT003",
+    "fleetId": "FL002",
+    "fleetName": "Chennai Freight Solutions",
+    "vehicleId": "TN09BK7741",
+    "severity": "Medium",
+    "type": "Under-Inflation",
+    "description": "Consistent under-inflation detected (avg 5% below recommended PSI). Possible slow puncture or valve issue. Monitor at next visit.",
+    "date": "2026-07-08",
+    "status": "Open"
+  },
+  {
+    "id": "ALT004",
+    "fleetId": "FL001",
+    "fleetName": "Namakkal Transport Co.",
+    "vehicleId": "TN33AK4521",
+    "severity": "Low",
+    "type": "Overload Signal",
+    "description": "Vehicle load appears to exceed tire load rating on long-haul routes. Monitor wear acceleration at next scheduled inspection.",
+    "date": "2026-07-10",
+    "status": "Monitoring"
+  },
+  {
+    "id": "ALT005",
+    "fleetId": "FL006",
+    "fleetName": "Erode Express Cargo",
+    "vehicleId": "TN25AK3312",
+    "severity": "Low",
+    "type": "Alignment",
+    "description": "Inner edge wear on front left tire suggests wheel misalignment. Recommend alignment check at next scheduled service.",
+    "date": "2026-07-11",
+    "status": "Open"
+  }
+]

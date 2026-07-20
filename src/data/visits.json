@@ -1,0 +1,74 @@
+[
+  {
+    "id": "VIS001",
+    "customer": "Namakkal Transport Co.",
+    "location": "Namakkal, Tamil Nadu",
+    "date": "2026-07-10",
+    "product": "Michelin X Works HD",
+    "outcome": "Completed",
+    "type": "Inspection",
+    "purpose": "Fleet validation – Q3 2026",
+    "contactPerson": "Mr. Rajesh Kumar",
+    "notes": "Fleet in good condition. Rotation schedule recommended. Customer satisfied with product performance."
+  },
+  {
+    "id": "VIS002",
+    "customer": "Salem Heavy Haulage",
+    "location": "Salem, Tamil Nadu",
+    "date": "2026-07-01",
+    "product": "Michelin X Line Energy Z",
+    "outcome": "Action Required",
+    "type": "Alert Follow-up",
+    "purpose": "Urgent inspection – tread depth alert",
+    "contactPerson": "Mr. Suresh Babu",
+    "notes": "Critical wear detected on all axles. Replacement order placed. Follow-up visit scheduled for 20 Jul."
+  },
+  {
+    "id": "VIS003",
+    "customer": "Chennai Freight Solutions",
+    "location": "Chennai, Tamil Nadu",
+    "date": "2026-07-08",
+    "product": "Michelin X Line Energy D",
+    "outcome": "Completed",
+    "type": "Placement",
+    "purpose": "New product placement – 8 tires mounted",
+    "contactPerson": "Ms. Priya Venkat",
+    "notes": "Successfully mounted 8 new tires. Performance baseline recorded for comparison at next visit."
+  },
+  {
+    "id": "VIS004",
+    "customer": "Coimbatore Road Carriers",
+    "location": "Coimbatore, Tamil Nadu",
+    "date": "2026-07-12",
+    "product": "Michelin X Works HD",
+    "outcome": "Completed",
+    "type": "Inspection",
+    "purpose": "Quarterly inspection – agreement CON004",
+    "contactPerson": "Mr. Vikram Patel",
+    "notes": "Fleet performing excellently. Avg tread depth 9.4mm. Customer keen to expand fleet contract."
+  },
+  {
+    "id": "VIS005",
+    "customer": "Trichy Logistics Pvt Ltd",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "date": "2026-06-30",
+    "product": "Michelin X Multi D",
+    "outcome": "Scheduled",
+    "type": "Follow-up",
+    "purpose": "Wear assessment follow-up",
+    "contactPerson": "Mr. Arjun Nair",
+    "notes": "Fleet showing early wear signals. Full inspection scheduled for 30 Jul 2026."
+  },
+  {
+    "id": "VIS006",
+    "customer": "Erode Express Cargo",
+    "location": "Erode, Tamil Nadu",
+    "date": "2026-07-11",
+    "product": "Michelin X Multi Energy D",
+    "outcome": "Completed",
+    "type": "Inspection",
+    "purpose": "Mid-contract survey",
+    "contactPerson": "Ms. Kavitha Rajan",
+    "notes": "Good condition overall. Minor irregular wear on TN25AK3312 noted. Alignment check advised."
+  }
+]

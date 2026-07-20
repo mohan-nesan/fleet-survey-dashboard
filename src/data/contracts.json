@@ -1,0 +1,80 @@
+[
+  {
+    "id": "CON001",
+    "customer": "Namakkal Transport Co.",
+    "product": "Michelin X Works HD",
+    "startDate": "2025-01-01",
+    "endDate": "2026-12-31",
+    "fleetSize": 12,
+    "status": "Active",
+    "value": "₹18,00,000",
+    "surveysPerYear": 4,
+    "lastSurvey": "2026-07-10",
+    "nextSurvey": "2026-10-10"
+  },
+  {
+    "id": "CON002",
+    "customer": "Chennai Freight Solutions",
+    "product": "Michelin X Line Energy D",
+    "startDate": "2024-06-01",
+    "endDate": "2026-07-31",
+    "fleetSize": 24,
+    "status": "Expiring",
+    "value": "₹42,00,000",
+    "surveysPerYear": 6,
+    "lastSurvey": "2026-07-08",
+    "nextSurvey": "2026-09-08"
+  },
+  {
+    "id": "CON003",
+    "customer": "Trichy Logistics Pvt Ltd",
+    "product": "Michelin X Multi D",
+    "startDate": "2025-03-01",
+    "endDate": "2027-02-28",
+    "fleetSize": 8,
+    "status": "Active",
+    "value": "₹10,50,000",
+    "surveysPerYear": 4,
+    "lastSurvey": "2026-06-30",
+    "nextSurvey": "2026-09-30"
+  },
+  {
+    "id": "CON004",
+    "customer": "Coimbatore Road Carriers",
+    "product": "Michelin X Works HD",
+    "startDate": "2026-01-01",
+    "endDate": "2027-12-31",
+    "fleetSize": 18,
+    "status": "Active",
+    "value": "₹28,80,000",
+    "surveysPerYear": 4,
+    "lastSurvey": "2026-07-12",
+    "nextSurvey": "2026-10-12"
+  },
+  {
+    "id": "CON005",
+    "customer": "Salem Heavy Haulage",
+    "product": "Michelin X Line Energy Z",
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-31",
+    "fleetSize": 6,
+    "status": "Expired",
+    "value": "₹8,40,000",
+    "surveysPerYear": 4,
+    "lastSurvey": "2026-07-01",
+    "nextSurvey": null
+  },
+  {
+    "id": "CON006",
+    "customer": "Erode Express Cargo",
+    "product": "Michelin X Multi Energy D",
+    "startDate": "2025-07-01",
+    "endDate": "2027-06-30",
+    "fleetSize": 15,
+    "status": "Active",
+    "value": "₹22,50,000",
+    "surveysPerYear": 4,
+    "lastSurvey": "2026-07-11",
+    "nextSurvey": "2026-10-11"
+  }
+]
